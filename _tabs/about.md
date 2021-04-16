@@ -12,4 +12,4 @@ My name is Siyu Liu and I am a machine learning PhD student currently studying a
 - **Reinforcement learning**
 - Machine learning for **finance** and **stock trading / investing**
 
-I take a project-based learning approach where I implement most of the algorithms I learn. This site has been created to document and share my learning. 
+I take a project-based learning approach where I implement most of the algorithms I learn. This site has been created to document and share my learning. I may goof around with crazy ideas also, so the projects and code here are by no means intended for any practical application or deployment.
